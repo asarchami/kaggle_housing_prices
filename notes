@@ -1,0 +1,26 @@
+
+
+===numerical to categorical=====
+BsmtFullBath
+BsmtHalfBath
+FullBath
+HalfBath
+BedroomAbvGr
+KitchenAbvGr
+TotRmsAbvGrd
+FirePlaces
+GarageCars
+MoSold
+
+
+===porch===============
+OpenPorchSF
+EnclosedPorch
+3SsnPorch
+ScreenPorch
+===pool================
+PoolArea
+PoolQC
+=======================
+
+
